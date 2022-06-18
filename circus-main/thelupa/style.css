@@ -1,0 +1,71 @@
+body {
+    background-color: rgb(0, 217, 255);
+}
+
+h3 {
+    color: red;
+}
+
+h4 {
+    color: red;
+}
+
+h5 {
+    color: red;
+}
+
+.box {
+    width: 650px;
+    height: 650px;
+    background-color: rgb(255, 255, 255);
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 78%;
+
+}
+
+.wrapper {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 550px;
+}
+
+.tr {
+    width: 1000px;
+    height: 800px;
+
+
+}
+
+.dostavka {
+    width: 650px;
+    height: 650px;
+    background-color: rgb(255, 255, 255);
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 230%;
+    
+}
+.vd{
+    width: 650px;
+    height: 310px;
+    background-color: rgb(255, 255, 255);
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 301%;
+}
