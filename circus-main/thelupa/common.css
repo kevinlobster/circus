@@ -22,7 +22,7 @@ input{
 }
 
 input::placeholder{
-    color: red;
+    color: rgb(255, 255, 255);
 }
 
 .logo-img{
@@ -37,6 +37,7 @@ input::placeholder{
     grid-template-areas:
       "logo-name head-sing-in"
       "logo-name head-nav";
+      height: 150px;
   }
   
   .logo-name { grid-area: logo-name;
@@ -60,3 +61,36 @@ input::placeholder{
 .code-svg{
     padding: 0px 10px 0px 10px ;
 }
+
+  .b-language{
+    display: flex;
+    border: none;
+    justify-content:right;
+   
+    
+}
+.lol{
+    width: 80px;
+    height: 40px;
+   
+    
+}
+.tkani{
+    padding: 20px;
+}
+.xd{
+    width: 80px;
+    height: 40px;
+}
+ .por{
+    height: 500px;
+ }
+ .gear{
+    height: 500px;
+ }
+ .pop{
+    height: 500px;
+ }
+ .gip{
+    height: 500px;
+ }
